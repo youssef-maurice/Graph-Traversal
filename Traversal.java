@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Q1 {
+public class Traversal {
 
     public static int[] get_start(String[][][] jail) {
         int levels= jail.length;
